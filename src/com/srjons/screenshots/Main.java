@@ -26,7 +26,7 @@ import static java.awt.TrayIcon.MessageType.INFO;
 
 public class Main {
 
-    public static final String LOGO = "screenshot-logo.png";
+    public static final String LOGO = "camera-logo.png";
     FileLock lock;
     FileChannel channel;
     public static boolean ASK_FILE_NAME = false;
